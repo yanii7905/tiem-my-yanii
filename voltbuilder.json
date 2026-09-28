@@ -1,0 +1,24 @@
+{
+  "title": "Tiệm Mì Yanii",
+  "id": "com.noodle.Yanii",
+  "version": "1.0.0",
+  "description": "Chơi miễn phí, không cần tải: mở quán mì cay trên điện thoại, nấu đúng cấp cay 0–7, nhập hàng, thuê nhân viên, lên top bảng xếp hạng và thi Giải mì mỗi ngày.",
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "androidKeystore": "certificates/android.keystore",
+  "androidKeystorePassword": "",
+  "androidAlias": "Yanii",
+  "androidAliasPassword": "",
+  "androidPackageType": "apk",
+  "iosDevP12": "certificates/ios_development.p12",
+  "iosDevP12Password": "",
+  "iosDevelopment": "certificates/development.mobileprovision",
+  "iosDistP12": "certificates/ios_distribution.p12",
+  "iosDistP12Password": "",
+  "iosDistribution": "certificates/distribution.mobileprovision",
+  "iosPackageType": "development",
+  "release": "debug",
+  "verbose": true
+}
